@@ -1,0 +1,2 @@
+com/jutudy/book/springboot/web/HelloControllerTest.java
+ com.jutudy.book.springboot.web.HelloControllerTest
